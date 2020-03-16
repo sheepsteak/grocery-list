@@ -1,0 +1,11 @@
+.list {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
+
+.item-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
